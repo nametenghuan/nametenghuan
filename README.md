@@ -2,7 +2,7 @@
 
 - 🔭 我是程序员悟空啊，衡院大师兄，在北京做Java开发踩坑多年。
 
-个人博客：panghuanteng.github.io
+个人博客：https://panghuanteng.github.io
 
 github：https://github.com/nametenghuan
 
