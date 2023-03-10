@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-- 🔭 我是程序员悟空啊，衡院大师兄，在北京做Java开发采坑多年。
+- 🔭 我是程序员悟空啊，衡院大师兄，在北京做Java开发踩坑多年。
 
 个人博客：panghuanteng.github.io
+
 github：https://github.com/nametenghuan
+
 掘金：https://juejin.cn/user/474597268392744
+
+
 <!--
 **nametenghuan/nametenghuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
